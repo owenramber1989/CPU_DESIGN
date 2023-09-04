@@ -34,12 +34,12 @@
 
 ## 参考资料
 
-1. [](https://www.bilibili.com/video/BV1564y117f7/?spm_id_from=333.337.search-card.all.click&vd_source=a86265a27be9e1903c01777c5fb65799)
+1. [通过解析 midi 文件产生音信号的作品](https://www.bilibili.com/video/BV1564y117f7/?spm_id_from=333.337.search-card.all.click&vd_source=a86265a27be9e1903c01777c5fb65799)
 
-2. [](https://www.bilibili.com/video/BV1pi4y197uu/?spm_id_from=333.337.search-card.all.click&vd_source=a86265a27be9e1903c01777c5fb65799)
+2. [界面图像处理的效果展示](https://www.bilibili.com/video/BV1pi4y197uu/?spm_id_from=333.337.search-card.all.click&vd_source=a86265a27be9e1903c01777c5fb65799)
 
-3. [](https://www.bilibili.com/video/BV1cF411B7Vb/?spm_id_from=333.337.search-card.all.click&vd_source=a86265a27be9e1903c01777c5fb65799)
+3. [兼具音视频功能的成品展示](https://www.bilibili.com/video/BV1cF411B7Vb/?spm_id_from=333.337.search-card.all.click&vd_source=a86265a27be9e1903c01777c5fb65799)
 
-4. [](https://www.bilibili.com/video/BV1pK411c7mw?p=1&vd_source=a86265a27be9e1903c01777c5fb65799)
+4. [较为详细的实现思路](https://www.bilibili.com/video/BV1pK411c7mw?p=1&vd_source=a86265a27be9e1903c01777c5fb65799)
 
 5. [学习通第 9 章 8.8 8.12 8.14 8.15 ]()
